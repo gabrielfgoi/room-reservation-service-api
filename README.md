@@ -30,6 +30,19 @@ JUnit 4 é a biblioteca utilizada para testes unitários. Ela ajuda a garantir q
 
 Mockito é uma biblioteca de mocking utilizada para criar objetos simulados e testar interações entre componentes de forma isolada. É fundamental para garantir que os testes unitários sejam independentes e confiáveis.
 
+### 7. **Docker**
+
+Docker é utilizado para containerizar a aplicação e o banco de dados MySQL. Com o Docker, a aplicação pode ser executada em qualquer ambiente que suporte contêineres, garantindo consistência e facilidade de configuração. 
+
+- **Docker para MySQL:** Um contêiner Docker é utilizado para executar o MySQL, o que simplifica a configuração e o gerenciamento do banco de dados.
+
 ## Motivação
 
 O principal objetivo deste projeto é o estudo e aprimoramento das habilidades de desenvolvimento com Java, Spring, JDBC e outras tecnologias relacionadas. A escolha dessas tecnologias foi baseada em seu valor educacional e sua relevância no mercado de trabalho. O projeto oferece uma oportunidade prática para experimentar com essas ferramentas e entender como elas podem ser usadas para construir aplicações web robustas.
+
+## Configuração
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/gabrielfgoi/room-reservation-service-api.git
