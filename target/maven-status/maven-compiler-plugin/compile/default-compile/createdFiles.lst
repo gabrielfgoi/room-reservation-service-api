@@ -1,0 +1,6 @@
+com/example/salaservice/controller/TestController.class
+com/example/salaservice/model/Sala.class
+com/example/salaservice/controller/SalaController.class
+com/example/salaservice/service/SalaService.class
+com/example/salaservice/repository/SalaRepository.class
+com/example/salaservice/SalaServiceApplication.class
