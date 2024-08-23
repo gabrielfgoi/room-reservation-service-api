@@ -40,9 +40,3 @@ Docker é utilizado para containerizar a aplicação e o banco de dados MySQL. C
 
 O principal objetivo deste projeto é o estudo e aprimoramento das habilidades de desenvolvimento com Java, Spring, JDBC e outras tecnologias relacionadas. A escolha dessas tecnologias foi baseada em seu valor educacional e sua relevância no mercado de trabalho. O projeto oferece uma oportunidade prática para experimentar com essas ferramentas e entender como elas podem ser usadas para construir aplicações web robustas.
 
-## Configuração
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/gabrielfgoi/room-reservation-service-api.git
